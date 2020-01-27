@@ -1,1 +1,1 @@
-# Fin377-participation
+# FIN377-participation
