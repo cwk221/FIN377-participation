@@ -1,4 +1,6 @@
-https://ledatascifi.github.io/
-https://ledatascifi.github.io/lectures-spr2020/01/01_Motivation_and_Getting_Started.html
-https://github.com/LeDataSciFi/Discussion
-https://github.com/LeDataSciFi
+- https://ledatascifi.github.io/
+- https://ledatascifi.github.io/lectures-spr2020/01/01_Motivation_and_Getting_Started.html
+- https://github.com/LeDataSciFi/Discussion
+- https://github.com/LeDataSciFi
+- https://github.com/cwk221/FIN377-participation
+- https://github.com/cwk221
